@@ -1,0 +1,74 @@
+[
+    {
+      "cameraName": "Sony A6700",
+      "brand": "Sony",
+      "cost": "15/day",
+      "imageUrl": "https://ryjason.github.io/cse121b/finalpic/-1_Mirrorless_Camera_Brand.jpg"
+    },
+    {
+      "cameraName": "Fujifilm X-T4",
+      "brand": "Fujifilm",
+      "cost": "45/day",
+      "imageUrl": "https://ryjason.github.io/cse121b/finalpic/81gMPeyvcKL.jpg"
+    },
+    {
+      "cameraName": "Canon R7",
+      "brand": "Canon",
+      "cost": "40/day",
+      "imageUrl": "https://ryjason.github.io/cse121b/finalpic/canon-eos-r7-mirrorless-camera-with-18-150mm-lens.jpg"
+    },
+    {
+      "cameraName": "Canon 5D",
+      "brand": "Canon",
+      "cost": "40/day",
+      "imageUrl": "https://ryjason.github.io/cse121b/finalpic/canon_eos_5d_mark_iv_1274706.jpg"
+    },
+    {
+      "cameraName": "Canon 6D",
+      "brand": "Canon",
+      "cost": "45/day",
+      "imageUrl": "https://ryjason.github.io/cse121b/finalpic/cn-8035b002_1.jpg"
+    },
+    {
+      "cameraName": "Fujifilm X-X10",
+      "brand": "Fujifilm",
+      "cost": "55/day",
+      "imageUrl": "https://ryjason.github.io/cse121b/finalpic/fujifilm_x_s10_mirrorless_digital_camera_1597411.jpg"
+    },
+    {
+      "cameraName": "Fujifilm Oldschool",
+      "brand": "Fujifilm",
+      "cost": "30/day",
+      "imageUrl": "https://ryjason.github.io/cse121b/finalpic/pexels-alex-andrews-1203803.jpg"
+    },
+    {
+      "cameraName": "Fujifilm OG",
+      "brand": "Fujifilm",
+      "cost": "30/day",
+      "imageUrl": "https://ryjason.github.io/cse121b/finalpic/pexels-dids-3777297.jpg"
+    },
+    {
+      "cameraName": "Nikon D7000",
+      "brand": "Nikon",
+      "cost": "40/day",
+      "imageUrl": "https://ryjason.github.io/cse121b/finalpic/pexels-math-249597.jpg"
+    },
+    {
+      "cameraName": "Fujifilm x-T10",
+      "brand": "Fujifilm",
+      "cost": "40/day",
+      "imageUrl": "https://ryjason.github.io/cse121b/finalpic/pexels-math-90946.jpg"
+    },
+    {
+      "cameraName": "Sony A7",
+      "brand": "Sony",
+      "cost": "55/day",
+      "imageUrl": "https://ryjason.github.io/cse121b/finalpic/pexels-pixabay-45889.jpg"
+    },
+    {
+      "cameraName": "Nikon D50",
+      "brand": "Nikon",
+      "cost": "60/day",
+      "imageUrl": "https://ryjason.github.io/cse121b/finalpic/pexels-pixabay-51383.jpg"
+    }
+]
