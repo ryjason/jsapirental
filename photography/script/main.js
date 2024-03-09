@@ -46,7 +46,7 @@ const displayCameras = (cameraList) => {
 
 /* async getCameras Function using fetch()*/
 const getCameras = async () => {
-    const response = await fetch("https://ryjason.github.io/jsapirental/api.json");
+    const response = await fetch("https://ryjason.github.io/cse121b/finalapi.json");
     cameraList = await response.json();
     displayCameras(cameraList);
 };
