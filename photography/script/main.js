@@ -1,5 +1,30 @@
+// // Import the functions you need from the SDKs you need
+// import { initializeApp } from "firebase/app";
+// import { getAnalytics } from "firebase/analytics";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+// const firebaseConfig = {
+//   apiKey: "AIzaSyBe1xUqj036yNCdrE9qexTiCTrsndNg8is",
+//   authDomain: "camerarental-d3ccd.firebaseapp.com",
+//   projectId: "camerarental-d3ccd",
+//   storageBucket: "camerarental-d3ccd.appspot.com",
+//   messagingSenderId: "637223677110",
+//   appId: "1:637223677110:web:cf55bbe627e40ebaf74a17",
+//   measurementId: "G-BSF88S2WZ7"
+// };
+
+// var database = firebase.database()
+
 const camerasElement = document.querySelector("#camera");
 let cameraList = {};
+
+// function get() {
+//     var user_ref = database.ref('users/'+'')
+
+// }
 
 /* async displayCameras Function */
 const displayCameras = (cameraList) => {
@@ -21,7 +46,7 @@ const displayCameras = (cameraList) => {
 
 /* async getCameras Function using fetch()*/
 const getCameras = async () => {
-    const response = await fetch("https://ryjason.github.io/cse121b/finalapi.json");
+    const response = await fetch("https://ryjason.github.io/jsapirental/api.json");
     cameraList = await response.json();
     displayCameras(cameraList);
 };
